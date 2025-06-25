@@ -305,7 +305,7 @@ pre { /* Footer text */
 
 /* Specific styles for contacto.html background */
 .contacto-body {
-    background-image: url('img/fondo1.jpg'); /* Ensure path is correct */
+    background-image: url('img/fondo1.jpg'); /* Path relative to styles.css */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
